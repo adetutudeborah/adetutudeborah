@@ -35,10 +35,10 @@ I am a front-end developer who is passionate about building and improving web ap
 <a href="https://twitter.com/adetutuoluwa2" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://hashnode.com/@https://adetutu.hashnode.dev/" target="_blank">
+<a href="https://adetutu.hashnode.dev/" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adetutu-oluwasanmi/" target="_blank">
+<a href="https://www.linkedin.com/in/adetutu-oluwasanmi/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>
