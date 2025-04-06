@@ -29,9 +29,10 @@
 ### Certifications
 
 <div align="left">
+
 <a href="https://www.credly.com/badges/66c832d5-c165-426f-8973-33fad3462f98/public_url" target="_blank">
   <img src="https://github.com/adetutudeborah/cert-assets/blob/main/assets/google-cybersecurity-professional-certificate.png" alt="Google Cybersecurity Certificate" width="80px">
-</a
+</a>
   
 <a href="https://www.credly.com/badges/37e4b249-8dae-46e5-bd7f-8f8ca890e1a9/public_url" target="_blank">
   <img src="https://github.com/adetutudeborah/cert-assets/blob/main/assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="80px">
