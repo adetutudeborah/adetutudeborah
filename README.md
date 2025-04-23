@@ -7,7 +7,6 @@
 * 🧠 I'm currently working on Azure Security Projects.
 * 🛡 I'm a Women in Cybersecurity (WiCyS) and Women in Cloud Digital Network community member.
 * 💼 I volunteer as an Operations Manager at The Coding Mum.
-* ✉️ You can contact me through [oluwasanmiadetutu@gmail.com](mailto:oluwasanmiadetutu@gmail.com)
 * 🌍 I'm based in Nigeria.
 
 ### Connect with me  
