@@ -6,7 +6,6 @@
 * ✍🏻 I write about cloud security on <a href='https://medium.com/@adetutuoluwasanmi' target='_blank'><strong>Medium</strong></a>.
 * 🧠 I'm currently working on Azure Security Projects.
 * 🛡 I'm a Women in Cybersecurity (WiCyS) and Women in Cloud Digital Network community member.
-* 💼 I volunteer as an Operations Manager at The Coding Mum.
 * 🌍 I'm based in Nigeria.
 
 ### Connect with me  
