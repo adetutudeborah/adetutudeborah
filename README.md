@@ -36,6 +36,10 @@
   <img src="https://github.com/adetutudeborah/cert-assets/blob/main/assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="80px">
 </a>
 
+<a href="https://www.credly.com/badges/6d959d80-2d6a-40b9-acff-d970cf8b9029/public_url" target="_blank">
+  <img src="https://github.com/adetutudeborah/cert-assets/blob/main/assets/kcna-kubernetes-and-cloud-native-associate.png" alt="Kubernetes and Cloud Native Associate" width="80px">
+</a>
+
 </div>
 
 
