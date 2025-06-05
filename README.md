@@ -40,6 +40,10 @@
   <img src="https://github.com/adetutudeborah/cert-assets/blob/main/assets/kcna-kubernetes-and-cloud-native-associate.png" alt="Kubernetes and Cloud Native Associate" width="80px">
 </a>
 
+<a href="https://www.credly.com/badges/3dc0aecf-d746-4619-9d61-c6d61ed80ee8/public_url" target="_blank">
+  <img src="https://github.com/adetutudeborah/cert-assets/blob/main/assets/certified-in-cybersecurity-cc.png" alt="Certified in Cybersecurity" width="80px">
+</a>
+
 </div>
 
 
