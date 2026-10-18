@@ -2,27 +2,58 @@
 
 **`Cloud Security Engineer`**
 
-* 👩‍💻 I'm a Cloud security engineer with hands-on experience in Azure, AWS, and cybersecurity tools. Skilled in SIEM monitoring, Identity & Access Management (IAM), Threat detection, and Incident response. Passionate about detecting & mitigating cloud threats and securing cloud environments.
-* ✍🏻 I write about cloud security on <a href='https://medium.com/@adetutuoluwasanmi' target='_blank'><strong>Medium</strong></a>.
-* 🧠 I'm currently working on Azure Security Projects.
-* 🛡 I'm a Women in Cybersecurity (WiCyS) and Women in Cloud Digital Network community member.
-* 🌍 I'm based in Nigeria.
+**Cloud Security | Microsoft Azure | AWS Security | Identity & Access Management | DevSecOps**
 
-### Connect with me  
-<div align="left">
-<a href="https://github.com/adetutudeborah" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/adetutuoluwa2" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@adetutuoluwasanmi" target="_blank"> 
-<img src="https://img.shields.io/badge/medium-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/adetutu-oluwasanmi/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>
+## 🛠️ Tech Stack & Tools
+
+- **Cloud Security:** Microsoft Defender for Cloud, AWS Security Hub
+- **Identity & Access Management (IAM):** Microsoft Entra ID (formerly Azure AD), AWS IAM, Conditional Access, MFA, RBAC, Privileged Access Management (PAM)
+- **DevSecOps & CI/CD:** GitHub Actions, Azure DevOps, SonarQube Cloud, Snyk, OWASP ZAP
+- **Infrastructure as Code (IaC):** Terraform, 
+- **Container Security:** Docker, Kubernetes Security Basics, Azure Kubernetes Service (AKS)
+- **SIEM & Threat Detection:** Microsoft Sentinel, AWS CloudTrail, Amazon GuardDuty, Amazon CloudWatch
+- **Vulnerability Management:** Vulnerability Assessment, Risk Prioritization, Remediation
+- **Cloud Governance & Compliance:** Azure Policy, Security Policies, Compliance Monitoring
+- **Other Skills:** Incident Response, Threat Modeling, Zero Trust Security, Least-Privilege Access
+
+## ☁️ Cloud Security Projects
+
+This section highlights my hands-on projects in Microsoft Azure and AWS, focusing on cloud security engineering, identity governance, threat detection, infrastructure automation, DevSecOps practices, and Compliance
+
+Through these projects, I aim to demonstrate my ability to:
+
+- Secure cloud environments using least-privilege access and Zero Trust principles.
+- Implement identity and access controls to reduce unauthorized access and privilege-related risks.
+- Automate infrastructure deployment and security tasks using Terraform.
+- Integrate security testing into CI/CD pipelines to support secure software delivery.
+- Identify vulnerabilities, assess security risks, and support remediation.
+- Explore security monitoring, threat detection, investigation, and incident response.
+- Apply cloud security controls and governance practices to support compliance requirements.
+
+### Featured Projects
+
+| Project | Tools Used | Objectives |
+|---|---|---|
+| [Deploy Static Website on Azure with Terraform](https://github.com/adetutudeborah/deploy-static-website-on-azure-with-terraform) | Microsoft Azure, Terraform | Automated the deployment of a static website on Azure using Terraform Infrastructure as Code (IaC). |
+| [CI/CD Pipeline with Azure DevOps, ACR, and AKS](https://github.com/adetutudeborah/ci-cd-pipeline-azure-devops-acr-aks) | Azure DevOps, Azure Container Registry (ACR), Azure Kubernetes Service (AKS), Docker | Implemented a CI/CD pipeline to automate application builds, container image management, and deployment to AKS. |
+| [DevSecOps Pipeline with Azure DevOps](https://github.com/adetutudeborah/devsecops-pipeline-azure-devops) | Microsoft Azure, Azure DevOps, Azure Repos, SonarQube Cloud, Snyk, OWASP ZAP, Jira | Integrated security practices into the CI/CD pipeline to support automated security checks and improve application security throughout the software delivery lifecycle. |
+
+
+## ✍️ Writing & Knowledge Sharing
+
+I'm passionate about learning, documenting, and sharing knowledge in cloud security, identity protection, threat detection, and DevSecOps.
+
+- **Medium:** [Read my articles](https://medium.com/@adetutuoluwasanmi)
+- **GitHub:** [Explore my repositories](https://github.com/adetutudeborah)
+
+---
+
+## 🛡️ Communities
+
+- Women in Cybersecurity (WiCyS)
+- Women in Cloud Digital Network
+
+---
 
 ### Certifications
 
@@ -46,15 +77,21 @@
 
 </div>
 
-
-### Projects
-
-| Project | Tools Used | Objectives |
-|---|---|---|
-| [Deploy Static Website on Azure with Terraform](https://github.com/adetutudeborah/deploy-static-website-on-azure-with-terraform) | Microsoft Azure, Terraform | Automated the deployment of a static website on Azure using Terraform Infrastructure as Code (IaC). |
-| [CI/CD Pipeline with Azure DevOps, ACR, and AKS](https://github.com/adetutudeborah/ci-cd-pipeline-azure-devops-acr-aks) | Azure DevOps, Azure Container Registry (ACR), Azure Kubernetes Service (AKS), Docker | Implemented a CI/CD pipeline to automate application builds, container image management, and deployment to AKS. |
-| [DevSecOps Pipeline with Azure DevOps](https://github.com/adetutudeborah/devsecops-pipeline-azure-devops) | Microsoft Azure, Azure DevOps, Azure Repos, SonarQube Cloud, Snyk, OWASP ZAP, Jira | Integrated security practices into the CI/CD pipeline to support automated security checks and improve application security throughout the software delivery lifecycle. |
-
+### Connect with me  
+<div align="left">
+<a href="https://github.com/adetutudeborah" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/adetutuoluwa2" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@adetutuoluwasanmi" target="_blank"> 
+<img src="https://img.shields.io/badge/medium-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/adetutu-oluwasanmi/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>
 
 ### Badges
 
