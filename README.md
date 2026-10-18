@@ -49,14 +49,11 @@
 
 ### Projects
 
-| **Project**                                         | **Tools used**                        | **Objectives**                            |
-|---------------------------------------------------|-------------------------------------------|------------------------------------------|
-| [Role-Based Access Control (RBAC) and Conditional Access in Microsoft Entra ID]() | Microsoft Entra ID, Azure Portal, Conditional Access, Identity Protection | Secure Azure cloud access through least privilege RBAC assignments and Conditional Access policies.|
-| [Microsoft Entra Identity Protection – Risk Policy Playbook](https://www.notion.so/Microsoft-Entra-Identity-Protection-Risk-Policy-Playbook-1cb972e67221801fad0fe4185cd2f958) |  | Created a practical guide for implementing and managing user risk, sign-in risk, and MFA registration policies in Microsoft Entra.|
-| | |
-| | |
-| | |
-| | |
+| Project | Tools Used | Objectives |
+|---|---|---|
+| [Deploy Static Website on Azure with Terraform](https://github.com/adetutudeborah/deploy-static-website-on-azure-with-terraform) | Microsoft Azure, Terraform | Automated the deployment of a static website on Azure using Terraform Infrastructure as Code (IaC). |
+| [CI/CD Pipeline with Azure DevOps, ACR, and AKS](https://github.com/adetutudeborah/ci-cd-pipeline-azure-devops-acr-aks) | Azure DevOps, Azure Container Registry (ACR), Azure Kubernetes Service (AKS), Docker | Implemented a CI/CD pipeline to automate application builds, container image management, and deployment to AKS. |
+| [DevSecOps Pipeline with Azure DevOps](https://github.com/adetutudeborah/devsecops-pipeline-azure-devops) | Microsoft Azure, Azure DevOps, Azure Repos, SonarQube Cloud, Snyk, OWASP ZAP, Jira | Integrated security practices into the CI/CD pipeline to support automated security checks and improve application security throughout the software delivery lifecycle. |
 
 
 ### Badges
