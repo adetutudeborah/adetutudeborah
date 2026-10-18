@@ -2,7 +2,7 @@
 
 **`Cloud Security Engineer`**
 
-**Cloud Security | Microsoft Azure | AWS Security | Identity & Access Management | DevSecOps**
+**Cloud Security | Microsoft Azure | AWS | Identity & Access Management | DevSecOps**
 
 ## Connect with me  
 <div align="left">
