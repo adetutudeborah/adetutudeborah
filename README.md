@@ -1,8 +1,8 @@
 ## Hello there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Adetutu Oluwasanmi
 
-**`Cloud Security Engineer`**
+**` Security Engineer`**
 
-**Cloud Security | Microsoft Azure | AWS | Identity & Access Management | DevSecOps**
+**Cloud Security | Microsoft Security | Security Operations (SecOps) | Security Administration**
 
 ## Connect with me  
 <div align="left">
@@ -22,14 +22,14 @@
 
 ## 🛠️ Tech Stack & Tools
 
-- **Cloud Security:** Microsoft Defender for Cloud
-- **Identity & Access Management (IAM):** Microsoft Entra ID (formerly Azure AD), AWS IAM, Conditional Access, MFA, RBAC, Privileged Access Management (PAM)
+- **Cloud Security:** Microsoft Azure, Microsoft Defender for Cloud
+- **Identity & Access Management (IAM):** Microsoft Entra ID (formerly Azure AD), Conditional Access, MFA, RBAC, Privileged Access Management (PAM)
+- **SIEM & SecOps:** Microsoft Sentinel, SIEM Monitoring, Threat Detection, Incident Triage, SOAR, Playbook Automation
 - **DevSecOps & CI/CD:** GitHub Actions, Azure DevOps, SonarQube Cloud, Snyk, OWASP ZAP
 - **Infrastructure as Code (IaC):** Terraform
 - **Container Security:** Docker, Kubernetes Security Basics, Azure Container Registry (ACR), Azure Kubernetes Service (AKS)
-- **SIEM & Threat Detection:** Microsoft Sentinel
 - **Vulnerability Management:** Vulnerability Assessment, Risk Prioritization
-- **Other Skills:** Incident Response, Threat Modelling, Zero Trust Security, Least-Privilege Access
+- **Security & Compliance:** NIST, ISO 27001, Zero Trust Security, Least-Privilege Access, Threat Modelling
 - **Programming languages:** JavaScript, React
 
 ## Certifications
