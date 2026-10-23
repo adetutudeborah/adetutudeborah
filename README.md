@@ -22,12 +22,12 @@
 
 ## 🛠️ Tech Stack & Tools
 
-- **Cloud Security:** Microsoft Defender for Cloud, AWS Security Hub
+- **Cloud Security:** Microsoft Defender for Cloud
 - **Identity & Access Management (IAM):** Microsoft Entra ID (formerly Azure AD), AWS IAM, Conditional Access, MFA, RBAC, Privileged Access Management (PAM)
 - **DevSecOps & CI/CD:** GitHub Actions, Azure DevOps, SonarQube Cloud, Snyk, OWASP ZAP
 - **Infrastructure as Code (IaC):** Terraform
 - **Container Security:** Docker, Kubernetes Security Basics, Azure Container Registry (ACR), Azure Kubernetes Service (AKS)
-- **SIEM & Threat Detection:** Microsoft Sentinel, AWS CloudTrail, Amazon GuardDuty, Amazon CloudWatch
+- **SIEM & Threat Detection:** Microsoft Sentinel
 - **Vulnerability Management:** Vulnerability Assessment, Risk Prioritization
 - **Other Skills:** Incident Response, Threat Modelling, Zero Trust Security, Least-Privilege Access
 - **Programming languages:** JavaScript, React
