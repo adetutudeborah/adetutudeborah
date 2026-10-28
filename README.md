@@ -22,7 +22,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-- **Cloud Security:** Microsoft Azure, Microsoft Defender for Cloud
+- **Cloud Security:** Microsoft Azure, Microsoft Defender for Cloud, Microsoft Defender XDR
 - **Identity & Access Management (IAM):** Microsoft Entra ID (formerly Azure AD), Conditional Access, MFA, RBAC, Privileged Access Management (PAM)
 - **SIEM & SecOps:** Microsoft Sentinel, SIEM Monitoring, Threat Detection, Incident Triage, SOAR, Playbook Automation
 - **DevSecOps & CI/CD:** GitHub Actions, Azure DevOps, SonarQube Cloud, Snyk, OWASP ZAP
