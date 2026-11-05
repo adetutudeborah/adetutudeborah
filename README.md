@@ -23,12 +23,11 @@
 ## 🛠️ Tech Stack & Tools
 
 - **Cloud Infrastructure** – Microsoft Azure, AWS, Azure VMs, Virtual Networks, Storage, App Services
-- **Network Security** – Azure Firewall, Network Security Groups (NSGs), Web Application Firewall (WAF)
-- **Cloud Security Operations** – Microsoft Defender for Cloud, Defender XDR, Microsoft Sentinel, KQL, Threat Detection, Incident Response, and SOAR
+- **Network Security** – Azure Firewall, Network Security Groups (NSGs), Web Application Firewall (WAF), DDoS Protection
+- **Cloud Security Operations** – Microsoft Defender XDR, Microsoft Sentinel, Defender for Cloud, Azure Monitor, Log Analytics, KQL, Threat Detection, Incident Response, SOAR
 - **Identity & Access Management (IAM)** – Microsoft Entra ID, Hybrid Identity, Conditional Access, MFA, RBAC, PAM
 - **Automation & Infrastructure as Code (IaC)** – Terraform, Azure Resource Manager (ARM) Templates
 - **DevSecOps & CI/CD Security** – GitHub Actions, Azure DevOps, GitHub, SonarCloud, Snyk, OWASP ZAP, Jira, Docker, Azure Kubernetes Service (AKS), Azure Container Registry (ACR)
-- **Monitoring & Logging** – Azure Monitor, Log Analytics
 
 ## Certifications
 
