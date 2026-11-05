@@ -24,11 +24,10 @@
 
 - **Cloud Infrastructure** – Microsoft Azure, AWS, Azure VMs, Virtual Networks, Storage, App Services
 - **Network Security** – Azure Firewall, Network Security Groups (NSGs), Web Application Firewall (WAF)
-- **Cloud Security Operations** – Microsoft Defender for Cloud, Defender XDR, Microsoft Sentinel, KQL, Threat Detection, Incident Response
+- **Cloud Security Operations** – Microsoft Defender for Cloud, Defender XDR, Microsoft Sentinel, KQL, Threat Detection, Incident Response, and SOAR
 - **Identity & Access Management (IAM)** – Microsoft Entra ID, Hybrid Identity, Conditional Access, MFA, RBAC, PAM
 - **Automation & Infrastructure as Code (IaC)** – Terraform, Azure Resource Manager (ARM) Templates
-- **DevSecOps & CI/CD** – GitHub Actions, Azure DevOps, GitHub, SonarCloud, Snyk, OWASP ZAP, Jira
-- **Container and Container Orchestration** – Docker, Kubernetes, Azure Kubernetes Service (AKS), Azure Container Registry (ACR)
+- **DevSecOps & CI/CD Security** – GitHub Actions, Azure DevOps, GitHub, SonarCloud, Snyk, OWASP ZAP, Jira, Docker, Azure Kubernetes Service (AKS), Azure Container Registry (ACR)
 - **Monitoring & Logging** – Azure Monitor, Log Analytics
 
 ## Certifications
