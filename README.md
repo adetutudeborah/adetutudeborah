@@ -22,15 +22,14 @@
 
 ## 🛠️ Tech Stack & Tools
 
-- **Cloud Security:** Microsoft Azure, Microsoft Defender for Cloud, Microsoft Defender XDR
-- **Identity & Access Management (IAM):** Microsoft Entra ID (formerly Azure AD), Conditional Access, MFA, RBAC, Privileged Access Management (PAM)
-- **SIEM & SecOps:** Microsoft Sentinel, SIEM Monitoring, Threat Detection, Incident Triage, SOAR, Playbook Automation
-- **DevSecOps & CI/CD:** GitHub Actions, Azure DevOps, SonarQube Cloud, Snyk, OWASP ZAP
-- **Infrastructure as Code (IaC):** Terraform
-- **Container Security:** Docker, Kubernetes Security Basics, Azure Container Registry (ACR), Azure Kubernetes Service (AKS)
-- **Vulnerability Management:** Vulnerability Assessment, Risk Prioritization
-- **Security & Compliance:** NIST, ISO 27001, Zero Trust Security, Least-Privilege Access, Threat Modelling
-- **Programming languages:** JavaScript, React
+- **Cloud Infrastructure** – Microsoft Azure, AWS, Azure VMs, Virtual Networks, Storage, App Services
+- **Network Security** – Azure Firewall, Network Security Groups (NSGs), Web Application Firewall (WAF)
+- **Cloud Security Operations** – Microsoft Defender for Cloud, Defender XDR, Microsoft Sentinel, KQL, Threat Detection, Incident Response
+- **Identity & Access Management (IAM)** – Microsoft Entra ID, Hybrid Identity, Conditional Access, MFA, RBAC, PAM
+- **Automation & Infrastructure as Code (IaC)** – Terraform, Azure Resource Manager (ARM) Templates
+- **DevSecOps & CI/CD** – GitHub Actions, Azure DevOps, GitHub, SonarCloud, Snyk, OWASP ZAP, Jira
+- **Container and Container Orchestration** – Docker, Kubernetes, Azure Kubernetes Service (AKS), Azure Container Registry (ACR)
+- **Monitoring & Logging** – Azure Monitor, Log Analytics
 
 ## Certifications
 
