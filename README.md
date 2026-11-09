@@ -15,7 +15,7 @@
 <a href="https://medium.com/@adetutuoluwasanmi" target="_blank"> 
 <img src="https://img.shields.io/badge/medium-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/adetutuoluwa2" target="_blank">
+<a href="https://twitter.com/@adetutudeborah_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>
