@@ -2,7 +2,7 @@
 
 **` Security Engineer `**
 
-**Cloud Security | Microsoft Security | Security Operations (SecOps) | Security Administration**
+**Cloud Security Engineer | Azure Security Engineer | Cloud Security Operations (SecOps)**
 
 ## Connect with me  
 <div align="left">
